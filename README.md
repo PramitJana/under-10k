@@ -1,5 +1,4 @@
-# under-10k
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
